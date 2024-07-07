@@ -1,3 +1,68 @@
 <resources>
     <string name="app_name">Tourism-App</string>
+    <string-array name="destination_name">
+        <item>Rinjani National Park</item>
+        <item>Bromo Tengger Semeru National Park</item>
+        <item>Way Kambas National Park</item>
+        <item>Ujung Kulon National Park</item>
+        <item>Karimun Jawa National Park</item>
+        <item>Leuser National Park</item>
+        <item>Komodo National Park</item>
+        <item>Wakatobi National Park</item>
+        <item>Baluran National Park</item>
+        <item>Bunaken National Park</item>
+        <item>Banda Neira</item>
+    </string-array>
+    <string-array name="destination_place">
+        <item>East Lombok, West Nusa Tenggara</item>
+        <item>Lumajang, East Java</item>
+        <item>East Lampung, Lampung</item>
+        <item>Ujungjaya, Banten</item>
+        <item>Jepara, Central Java</item>
+        <item>North Sumatra, Sumatra</item>
+        <item>East Nusa Tenggara</item>
+        <item>Lentea, South East Sulawesi</item>
+        <item>Situbondo, East Java</item>
+        <item>Manado, North Sulawesi</item>
+        <item>Central Maluku, Maluku</item>
+    </string-array>
+    <string-array name="destination_desc">
+        <item>Nestled within the heart of Indonesia\'s Lombok island, Rinjani National Park is a sanctuary of breathtaking beauty and geological marvels. Towering above the landscape is Mount Rinjani, a majestic volcano soaring to 3,726 meters (12,224 feet) above sea level, earning its place as the second-highest peak in Indonesia. Its rugged slopes, adorned with lush forests and cascading waterfalls, present a striking sight that captivates the imagination.\n\nBeyond its imposing peak, Rinjani National Park is a haven of ecological diversity, boasting an array of ecosystems that support a rich tapestry of plant and animal life. From dense rainforests teeming with biodiversity to serene crater lakes reflecting the sky above, the park offers an immersive experience for nature enthusiasts and conservationists alike. Trekking through its winding trails, visitors encounter hidden waterfalls, panoramic viewpoints, and the cultural heritage of the indigenous Sasak people, who revere Mount Rinjani as a sacred site steeped in tradition and spirituality. In Rinjani National Park, the wonders of the natural world unfold in all their splendor, inviting exploration, contemplation, and a deep appreciation for the interconnectedness of life on Earth.</item>
+        <item>Bromo Tengger Semeru National Park, nestled in East Java, Indonesia, is a mesmerizing testament to the raw power and beauty of nature. The park\'s defining features include active volcanoes, expansive calderas, and breathtaking vistas that leave visitors spellbound. At its core, Mount Bromo stands as a magnificent symbol of this volcanic landscape, its ethereal allure heightened by the ancient Tengger Caldera that surrounds it. Meanwhile, the park\'s diverse terrain, from the towering Mount Semeru to the sweeping Sands of Bromo, offers a captivating playground for adventurers and nature lovers alike.\n\nAs dawn breaks over Bromo National Park, the scene transforms into an otherworldly spectacle. Visitors are treated to the surreal sight of sunrise casting a golden hue over Mount Bromo and the surrounding volcanic terrain, creating a mystical atmosphere that lingers in memory long after departure. This natural wonderland invites exploration and adventure, drawing travelers into its embrace with promises of unforgettable experiences amidst the awe-inspiring forces of the Earth.</item>
+        <item>Way Kambas National Park, situated in Lampung, Indonesia, emerges as a vital sanctuary for biodiversity and a stronghold for endangered species. This haven encompasses dense forests, serene rivers, and expansive grasslands, providing a pristine habitat for iconic creatures such as the critically endangered Sumatran rhinoceros, elephants, tigers, and a diverse array of bird species. Amidst this rich tapestry of flora and fauna, the park serves as a beacon of hope for wildlife preservation and rehabilitation efforts.\n\nFocused on the twin pillars of research and education, Way Kambas plays a pivotal role in advancing the cause of wildlife protection. Its dedication to safeguarding endangered species, coupled with its natural allure, renders it an indispensable destination for both conservationists and nature enthusiasts. By immersing visitors in the beauty of its landscapes and the urgency of its conservation mission, Way Kambas National Park inspires a profound appreciation for the intricate web of life and the imperative of protecting it for generations to come.</item>
+        <item>Ujung Kulon National Park in West Java, Indonesia, is a pristine UNESCO World Heritage site renowned for its untamed wilderness. Home to the critically endangered Javan rhinoceros, it\'s a vital conservation area with lush rainforests, idyllic beaches, and the iconic Krakatoa volcano. Boasting diverse flora and fauna, including endemic species, Ujung Kulon offers a unique experience for nature enthusiasts. Its commitment to preserving endangered species and stunning natural beauty make it a captivating destination for ecotourism and conservation.</item>
+        <item>Karimunjawa National Park, off Central Java\'s coast, is a pristine island paradise with vibrant coral reefs and diverse marine life. Crystal-clear waters, white sandy beaches, and flourishing coral gardens create an idyllic tropical escape. Home to fish species, sea turtles, and colorful coral, Karimunjawa offers a captivating underwater experience. Lush vegetation and mangrove forests enhance its natural charm, making it an ideal destination for a serene escape and a glimpse into Indonesia\'s marine biodiversity.</item>
+        <item>Leuser National Park in Sumatra, Indonesia, is a UNESCO World Heritage site and biodiversity hotspot, boasting vast rainforests, rugged mountains, and pristine rivers. It serves as a crucial refuge for endangered species like Sumatran orangutans, tigers, and rhinoceros. The park\'s rich ecosystem, diverse flora and fauna, and lush landscapes make it a haven for nature enthusiasts and conservationists.</item>
+        <item>Komodo National Park, located in the Indonesian archipelago, is a UNESCO World Heritage site renowned for its unique biodiversity and the iconic Komodo dragon, the world\'s largest lizard. Encompassing several islands, the park features rugged landscapes, volcanic hills, and pristine beaches. Home to not only the formidable Komodo dragons but also diverse marine life, including vibrant coral reefs and rare marine species, the park offers a captivating blend of terrestrial and marine wonders</item>
+        <item>Wakatobi National Park, at the heart of Indonesia\'s Coral Triangle, is a renowned marine paradise with pristine coral reefs and vibrant biodiversity. Comprising four main islands—Wangi-Wangi, Kaledupa, Tomia, and Binongko—it\'s a haven for divers and nature enthusiasts. The crystal-clear waters showcase rare marine species and diverse coral formations.</item>
+        <item>Baluran National Park in East Java, Indonesia, often called the "Little Africa of Java," is a captivating natural reserve known for its savannah landscapes, mangrove forests, and diverse ecosystems. The park offers a unique safari experience with Javanese water buffalo, deer, and various bird species. Mount Baluran adds grandeur to the picturesque scenery.</item>
+        <item>Bunaken National Park, off the coast of North Sulawesi, Indonesia, is a marine wonderland celebrated for its stunning coral reefs and rich biodiversity. With crystal-clear waters surrounding islands like Bunaken, Manado Tua, and Siladen, the park is a haven for divers and snorkelers. Its underwater paradise features vibrant coral formations, sharks, and turtles, showcasing Indonesia\'s dedication to marine conservation.</item>
+        <item>Banda Neira, part of Indonesia\'s Maluku archipelago, is a historical gem with Dutch colonial charm. Steeped in spice trade history, the island boasts well-preserved architecture and a picturesque waterfront. The old fort, vibrant markets, and nutmeg plantation remnants narrate a rich past. Surrounded by azure waters, Banda Neira invites travelers to explore its cultural heritage and indulge in the natural beauty of this historically significant destination.</item>
+    </string-array>
+    <string-array name="destination_rating">
+        <item>5.0</item>
+        <item>4.9</item>
+        <item>4.9</item>
+        <item>4.7</item>
+        <item>4.9</item>
+        <item>4.8</item>
+        <item>4.5</item>
+        <item>4.6</item>
+        <item>4.8</item>
+        <item>5.0</item>
+        <item>5.0</item>
+    </string-array>
+    <integer-array name="destination_photo">
+<!--        <item>@drawable/rinjani</item>-->
+<!--        <item>@drawable/bromo</item>-->
+<!--        <item>@drawable/way_kambas</item>-->
+<!--        <item>@drawable/ujung_kulon</item>-->
+<!--        <item>@drawable/karimun_jawa</item>-->
+<!--        <item>@drawable/leuser</item>-->
+<!--        <item>@drawable/komodo</item>-->
+<!--        <item>@drawable/wakatobi</item>-->
+<!--        <item>@drawable/baluran</item>-->
+<!--        <item>@drawable/bunaken</item>-->
+<!--        <item>@drawable/banda_neira</item>-->
+    </integer-array>
 </resources>
