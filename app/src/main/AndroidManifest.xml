@@ -16,10 +16,10 @@
             android:name=".presentation.DetailActivity"
             android:exported="false" />
         <activity
-            android:name=".presentation.HomeActivity"
+            android:name=".presentation.SplashActivity"
             android:exported="false" />
         <activity
-            android:name=".presentation.SplashActivity"
+            android:name=".presentation.HomeActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

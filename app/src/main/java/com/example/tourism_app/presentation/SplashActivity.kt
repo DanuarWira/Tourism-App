@@ -14,12 +14,8 @@ class SplashActivity : BaseActivity<ActivitySplashBinding>() {
         return ActivitySplashBinding.inflate(layoutInflater)
     }
 
-    override fun setUI() {
-        TODO("Not yet implemented")
-    }
+    override fun setUI() {}
 
-    override fun setProcess() {
-        TODO("Not yet implemented")
-    }
+    override fun setProcess() {}
 
 }

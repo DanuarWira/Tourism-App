@@ -3,7 +3,7 @@ package com.example.tourism_app.data.source
 import com.example.tourism_app.R
 import com.example.tourism_app.data.model.Destination
 
-class DestinationDataSource {
+object DestinationDataSource {
     val dataMaps = listOf(
         mapOf(
             "name" to "Rinjani National Park",

@@ -7,12 +7,20 @@ import androidx.recyclerview.widget.RecyclerView
 import com.example.tourism_app.data.model.Destination
 import com.example.tourism_app.databinding.ItemPlacesBinding
 
-class DestinationAdapter(private val destinationList : List<Destination>) : RecyclerView.Adapter<DestinationAdapter.DestinationViewHolder>() {
+class DestinationAdapter() : RecyclerView.Adapter<DestinationAdapter.DestinationViewHolder>() {
 
+    private val destinationList: ArrayList<Destination> = ArrayList()
+
+    fun setData(destinationList: List<Destination>) {
+        this.destinationList.clear()
+        this.destinationList.addAll(destinationList)
+        notifyDataSetChanged()
+    }
     class DestinationViewHolder(val binding: ItemPlacesBinding) : RecyclerView.ViewHolder(binding.root) {
         fun bind(destinations: Destination) {
             binding.tvDestinationName.text = destinations.name
             binding.tvDestinationLocation.text = destinations.location
+            binding.tvDestinationRating.text = destinations.rating.toString()
             binding.imgDestinationPhoto.setImageResource(destinations.image!!)
         }
     }
