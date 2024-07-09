@@ -1,5 +1,12 @@
 <resources>
     <string name="app_name">Tourism-App</string>
+    <string name="location_image">Location Image</string>
+    <string name="destination">Destination</string>
+    <string name="location_pin">Location pin</string>
+    <string name="location">Location</string>
+    <string name="rating">5.0</string>
+    <string name="price">$27.20/Person</string>
+    <string name="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</string>
     <string-array name="destination_name">
         <item>Rinjani National Park</item>
         <item>Bromo Tengger Semeru National Park</item>
