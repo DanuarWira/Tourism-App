@@ -17,6 +17,7 @@ class HomeActivity : BaseActivity<ActivityHomeBinding>() {
 
     private lateinit var destinationAdapter: DestinationAdapter
     private var destinations: ArrayList<Destination> = arrayListOf()
+
     override fun getVewBinding(): ActivityHomeBinding {
         return ActivityHomeBinding.inflate(layoutInflater)
     }
@@ -24,7 +25,6 @@ class HomeActivity : BaseActivity<ActivityHomeBinding>() {
     override fun setUI() {
         setDestinationsData()
         destinations.addAll(DestinationDataSource.destinations)
-
         destinationAdapter.setData(destinations)
     }
 

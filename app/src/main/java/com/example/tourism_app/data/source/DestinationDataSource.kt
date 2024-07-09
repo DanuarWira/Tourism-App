@@ -43,7 +43,7 @@ object DestinationDataSource {
             "image" to R.drawable.ujung_kulon,
             "price" to 4_900_000,
             "timeElapse" to 4,
-            "category" to "nature"
+            "category" to "nature",
         ),
         mapOf(
             "name" to "Karimun Jawa National Park",
